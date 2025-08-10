@@ -29,4 +29,5 @@
 22. UPMEM LLM Framework [Code1](https://github.com/upmem/dpu_demo) [Code2](https://github.com/upmem/upmem_llm_framework)
 23. M2NDP [Paper](https://arxiv.org/pdf/2404.19381) [Code](https://github.com/PSAL-POSTECH/M2NDP-public)
 24. NATSA [Paper](https://people.inf.ethz.ch/omutlu/pub/NATSA_time-series-analysis-near-data_iccd20.pdf) [Code](https://github.com/CMU-SAFARI/NATSA)
+25. LLMServingSim [Paper](https://arxiv.org/pdf/2408.05499) [Code](https://github.com/casys-kaist/llmservingsim)
     
