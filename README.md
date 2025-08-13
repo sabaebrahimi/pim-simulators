@@ -1,6 +1,7 @@
 # pim-simulators
 ## General Simulators
 1. ASTRA-sim [Paper](https://arxiv.org/pdf/2303.14006) [Code](https://github.com/astra-sim/astra-sim) [Website](https://astra-sim.github.io/)
+2. IBM Analog Hardware Acceleration Kit [Docs](https://aihwkit.readthedocs.io/en/latest/) [Code](https://github.com/IBM/aihwkit)
 ## DRAM Simulators
 1. Ramulator [Paper](https://people.inf.ethz.ch/omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf) [Code](https://github.com/CMU-SAFARI/ramulator)
 2. Statistical DRAM Modeling [Paper](https://dl.acm.org/doi/pdf/10.1145/3357526.3357576)
@@ -37,4 +38,15 @@
 28. Wave-PIM [Paper](https://lca.ece.utexas.edu/pubs/ICPP_21_Wave_PIM.pdf)
 29. NeuroSim for PIM [Paper](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.659060/full) [Code](https://github.com/neurosim/DNN_NeuroSim_V2.1)
 30. CIM-SIM [Paper](https://dl.acm.org/doi/10.1145/3323439.3323989)
-31.  MoEs on an abstract 3D AIMC system [Paper](https://www.nature.com/articles/s43588-024-00753-x) [Code](https://github.com/IBM/3D-CiM-LLM-Inference-Simulator)
+31. MoEs on an abstract 3D AIMC system [Paper](https://www.nature.com/articles/s43588-024-00753-x) [Code](https://github.com/IBM/3D-CiM-LLM-Inference-Simulator)
+32. MemTorch [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002053) [Code](https://github.com/coreylammie/MemTorch)
+33. RAPIDNN [Paper](https://arxiv.org/pdf/1806.05794)
+34. PUMA [Paper](https://arxiv.org/pdf/1901.10351)
+35. DL-RSIM [Paper](https://ieeexplore.ieee.org/document/8587661)
+36. PipeLayer [Paper](https://ieeexplore.ieee.org/abstract/document/7920854)
+## PIM Modeling
+1. MNSIM 2.0 [Paper](https://ieeexplore.ieee.org/document/10058114) [Code](https://github.com/thu-nics/MNSIM-2.0)
+2. The Processing-in-Memory Model [Paper](https://www.cs.ucr.edu/~ygu/papers/SPAA21/PIM.pdf)
+3. V-PIM [Paper](https://ceca.pku.edu.cn/docs/20181223162256557204.pdf)
+4. GNN-PIM [Paper](https://ceca.pku.edu.cn/docs/20200915165942122459.pdf)
+5. PIMSYN [Paper](https://arxiv.org/pdf/2402.18114)
