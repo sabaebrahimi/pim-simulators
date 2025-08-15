@@ -51,7 +51,7 @@
 4. GNN-PIM [Paper](https://ceca.pku.edu.cn/docs/20200915165942122459.pdf)
 5. PIMSYN [Paper](https://arxiv.org/pdf/2402.18114)
 ## PIM Benchmark Suites 
-1. PrIM
-2. InSituBench
+1. PrIM [Paper](https://arxiv.org/pdf/2504.08810) [Code](https://github.com/amair-lab/PriM)
+2. InSituBench 
 3. IRAM
 4. PIMbench [Paper](https://www.cs.virginia.edu/venkat/papers/iiswc2024.pdf) [Code](https://github.com/UVA-LavaLab/PIMeval-PIMbench)
