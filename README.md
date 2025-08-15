@@ -19,7 +19,7 @@
 9. MPU-Sim [Paper](https://jyhuang91.github.io/papers/cal2021-mpusim.pdf) [Code](https://github.com/GD06/mpu-sim_distribution)
 10. PIMSim [Paper](https://ieeexplore.ieee.org/document/8567968) [Code](https://github.com/vineodd/PIMSim)
 11. MultiPIM [Paper](https://www.sihangliu.com/docs/MultiPIM_CAL.pdf) [Code](https://github.com/Systems-ShiftLab/MultiPIM)
-12. PIMeval simulator and PIMbench suite [Paper](https://www.cs.virginia.edu/venkat/papers/iiswc2024.pdf) [Code](https://github.com/UVA-LavaLab/PIMeval-PIMbench)
+12. PIMeval [Paper](https://www.cs.virginia.edu/venkat/papers/iiswc2024.pdf) [Code](https://github.com/UVA-LavaLab/PIMeval-PIMbench)
 13. NVMain [Paper](https://ieeexplore.ieee.org/document/6296505) [Code](https://github.com/SEAL-UCSB/NVmain)
 14. PIMCoSim [Paper](https://www.mdpi.com/2079-9292/13/23/4795)
 15. PIMSys [Paper](https://dl.acm.org/doi/full/10.1145/3695794.3695797)
@@ -54,4 +54,4 @@
 1. PrIM
 2. InSituBench
 3. IRAM
-4. PIMbench
+4. PIMbench [Paper](https://www.cs.virginia.edu/venkat/papers/iiswc2024.pdf) [Code](https://github.com/UVA-LavaLab/PIMeval-PIMbench)
