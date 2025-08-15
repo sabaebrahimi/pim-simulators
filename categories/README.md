@@ -6,32 +6,46 @@
 
 Detailed, often cycle-accurate simulators for modeling digital PIM architectures integrated with host processors. They are essential for system-level research and hardware/software co-design.
 
+### gem5-Based Simulators
+This group includes simulators built upon or extending the popular [gem5 full-system simulator](https://www.gem5.org/main/), enabling detailed studies of PIM-CPU interaction, coherence, and OS support.
+
 | Name | Description | Resources |
 |---|---|---|
-| **ASTRA-sim** | A comprehensive simulator for large-scale systems with distributed accelerators, modeling both computation and network-on-chip (NoC) communication. | [Paper](https://arxiv.org/pdf/2303.14006) \| [Code](https://github.com/astra-sim/astra-sim) \| [Website](https://astra-sim.github.io/) |
-| **CLAPPS** | A cross-layer simulation approach for PIM-enabled systems, modeling interactions from the application down to the hardware. | [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) |
-| **PIMCoSim** | A system-level co-simulation platform based on RISC-V for evaluating PIM systems. | [Paper](https://www.mdpi.com/2079-9292/13/23/4795) |
-| **PIMSim** | A gem5-based simulator for a PIM architecture featuring PIM-enabled instructions and a specialized memory controller. | [Paper](https://ieeexplore.ieee.org/document/8567968) \| [Code](https://github.com/vineodd/PIMSim) |
-| **PimSimNN** | A comprehensive simulator for evaluating both digital PIM and analog CIM-based neural network accelerators. | [Paper](https://arxiv.org/pdf/2402.18089) \| [Code](https://github.com/wangxy-2000/pimsim-nn) |
 | **gem5-ndp** | A gem5-based simulator extension to model and evaluate near-data processing architectures. | [Paper](https://hpcas.inesc-id.pt/~handle/papers/Conf_SBAC-PAD_2022.pdf) |
 | **NDPmulator** | A gem5-based framework for evaluating NDP architectures, with a focus on operating system and coherence support. | [Paper](https://hpcas.inesc-id.pt/~unify/papers/journal_access24a.pdf) \| [Code](https://github.com/hpc-ulisboa/NDPmulator) |
 | **Sim2pim** | A gem5 extension designed to evaluate PIM architectures by modeling PIM-enabled instructions and memory controllers. | [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2022/06/JSA2022.pdf) \| [Paper2](https://past.date-conference.com/proceedings-archive/2021/pdf/1725.pdf) |
 | **M2NDP** | A gem5-based framework for exploring data movement and management in Multi-Module Near-Data Processing systems. | [Paper](https://arxiv.org/pdf/2404.19381) \| [Code](https://github.com/PSAL-POSTECH/M2NDP-public) |
 | **Extended gem5** | A version of gem5 extended with timing-accurate models for HBM2-based PIM like Samsung's Aquabolt. | [Paper](https://www.degruyterbrill.com/document/doi/10.1515/itit-2023-0019/html?lang=en) |
+| **PIMSim** | A gem5-based simulator for a PIM architecture featuring PIM-enabled instructions and a specialized memory controller. | [Paper](https://ieeexplore.ieee.org/document/8567968) \| [Code](https://github.com/vineodd/PIMSim) |
+
+### Simulators for Specific or Proposed Architectures
+These simulators are tailored to model a particular PIM hardware design, whether it's a commercial product, a research prototype, or a novel academic proposal.
+
+| Name | Description | Resources |
+|---|---|---|
 | **Pimsimulator** | A simulator for Samsung's HBM2-PIM (FUNK) architecture, providing a performance and functional model. | [Code](https://github.com/SAITPublic/PIMSimulator) |
-| **PiMsimulation** | A functional simulator developed in C++ for exploring basic Processing-in-Memory operations. | [Code](https://github.com/RohSiHyun/PiMsimulation) |
 | **uPIMulator** | A cycle-accurate simulator specifically for the UPMEM PIM architecture, modeling its DPU (DRAM Processing Unit) cores. | [Paper](https://arxiv.org/pdf/2308.00846) \| [Code](https://github.com/VIA-Research/uPIMulator) |
 | **MPU-Sim** | A simulator for a "Memory Processing Unit" (MPU), an architecture that adds compute capabilities to the memory controller. | [Paper](https://jyhuang91.github.io/papers/cal2021-mpusim.pdf) \| [Code](https://github.com/GD06/mpu-sim_distribution) |
-| **MultiPIM** | A framework designed to simulate and evaluate systems that integrate multiple heterogeneous PIM architectures. | [Paper](https://www.sihangliu.com/docs/MultiPIM_CAL.pdf) \| [Code](https://github.com/Systems-ShiftLab/MultiPIM) |
-| **Proteus** | A fast and accurate simulator for heterogeneous PIM architectures, including support for modern ReRAM-based designs. | [Paper](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-60.pdf) \| [Code](https://github.com/CMU-SAFARI/Proteus) |
 | **MIMDRAM** | A simulator for a novel PIM architecture enabling MIMD (Multiple Instruction, Multiple Data) execution inside DRAM. | [Paper](https://arxiv.org/pdf/2402.19080) \| [Code](https://github.com/CMU-SAFARI/MIMDRAM) |
 | **SMCSim** | A detailed, cycle-accurate simulator for systems using Smart Memory Cubes for near-memory processing. | [Paper1](https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/4324/file/_FINAL_W07.11.4.pdf) \| [Paper2](https://cs.brown.edu/people/acrotty/pubs/3490148.3538591.pdf) \| [Code](https://github.com/salilkapur/SMCSim) |
 | **NATSA** | A simulator for a near-data accelerator specifically designed for time-series analysis workloads. | [Paper](https://people.inf.ethz.ch/omutlu/pub/NATSA_time-series-analysis-near-data_iccd20.pdf) \| [Code](https://github.com/CMU-SAFARI/NATSA) |
-| **PIMSys** | A PIM simulation platform focused on system-level integration, including OS and runtime aspects. | [Paper](https://dl.acm.org/doi/full/10.1145/3695794.3695797) |
-| **HMC-Sim-2.0** | A simulator for the Hybrid Memory Cube (HMC), an early 3D-stacked memory architecture that enabled near-memory computation. | [Paper](https://ieeexplore.ieee.org/document/7529923) |
-| **LLMServingSim** | A system-level simulator for evaluating LLM serving infrastructures, with the capability to model PIM-based hardware. | [Paper](https://arxiv.org/pdf/2408.05499) \| [Code](https://github.com/casys-kaist/llmservingsim) |
 | **Wave-PIM** | A simulator for a novel PIM architecture that uses analog waveform processing for scientific computing applications. | [Paper](https://lca.ece.utexas.edu/pubs/ICPP_21_Wave_PIM.pdf) |
+| **HMC-Sim-2.0** | A simulator for the Hybrid Memory Cube (HMC), an early 3D-stacked memory architecture that enabled near-memory computation. | [Paper](https://ieeexplore.ieee.org/document/7529923) |
 
+### General-Purpose and System-Level Simulators
+This group includes more general frameworks designed to simulate a wide range of PIM systems, heterogeneous architectures, or focus on higher-level system integration challenges.
+
+| Name | Description | Resources |
+|---|---|---|
+| **ASTRA-sim** | A comprehensive simulator for large-scale systems with distributed accelerators, modeling both computation and network-on-chip (NoC) communication. | [Paper](https://arxiv.org/pdf/2303.14006) \| [Code](https://github.com/astra-sim/astra-sim) \| [Website](https://astra-sim.github.io/) |
+| **CLAPPS** | A cross-layer simulation approach for PIM-enabled systems, modeling interactions from the application down to the hardware. | [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) |
+| **PIMCoSim** | A system-level co-simulation platform based on RISC-V for evaluating PIM systems. | [Paper](https://www.mdpi.com/2079-9292/13/23/4795) |
+| **PimSimNN** | A comprehensive simulator for evaluating both digital PIM and analog CIM-based neural network accelerators. | [Paper](https://arxiv.org/pdf/2402.18089) \| [Code](https://github.com/wangxy-2000/pimsim-nn) |
+| **PiMsimulation** | A functional simulator developed in C++ for exploring basic Processing-in-Memory operations. | [Code](https://github.com/RohSiHyun/PiMsimulation) |
+| **MultiPIM** | A framework designed to simulate and evaluate systems that integrate multiple heterogeneous PIM architectures. | [Paper](https://www.sihangliu.com/docs/MultiPIM_CAL.pdf) \| [Code](https://github.com/Systems-ShiftLab/MultiPIM) |
+| **Proteus** | A fast and accurate simulator for heterogeneous PIM architectures, including support for modern ReRAM-based designs. | [Paper](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-60.pdf) \| [Code](https://github.com/CMU-SAFARI/Proteus) |
+| **PIMSys** | A PIM simulation platform focused on system-level integration, including OS and runtime aspects. | [Paper](https://dl.acm.org/doi/full/10.1145/3695794.3695797) |
+| **LLMServingSim** | A system-level simulator for evaluating LLM serving infrastructures, with the capability to model PIM-based hardware. | [Paper](https://arxiv.org/pdf/2408.05499) \| [Code](https://github.com/casys-kaist/llmservingsim) |
 ---
 
 ## 🧠 2. Analog, Neuromorphic & In-Memory Compute (CIM/AIMC) Simulators
