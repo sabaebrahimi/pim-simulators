@@ -1,7 +1,5 @@
 # A Curated List of PIM Simulators, Frameworks, and Benchmarks
 
-This repository contains a curated and categorized list of academic and industrial tools for simulating, modeling, and benchmarking Processing-in-Memory (PIM) systems. The list is organized to help researchers, students, and engineers navigate the PIM research landscape.
-
 ---
 
 ## 🏛️ 1. Architectural PIM Simulators
