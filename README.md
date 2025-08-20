@@ -10,8 +10,8 @@
 ## PIM Simulators
 1. Sim2pim [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2022/06/JSA2022.pdf) [Paper2](https://past.date-conference.com/proceedings-archive/2021/pdf/1725.pdf) 🤯
 2. uPIMulator [Paper](https://arxiv.org/pdf/2308.00846) [Code](https://github.com/VIA-Research/uPIMulator)  😎
-3. HMC-Sim-2.0 [Paper](https://ieeexplore.ieee.org/document/7529923)
-4. CLAPPS [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) 
+3. HMC-Sim-2.0 [Paper](https://ieeexplore.ieee.org/document/7529923) 😁
+4. CLAPPS [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) 😊
 5. Pimsimulator [Code](https://github.com/SAITPublic/PIMSimulator)
 6. NAPEL [Paper](https://people.inf.ethz.ch/omutlu/pub/NAPEL-near-memory-computing-performance-prediction-via-ML_dac19.pdf) 
 7. gem5-ndp [Paper](https://hpcas.inesc-id.pt/~handle/papers/Conf_SBAC-PAD_2022.pdf) 
