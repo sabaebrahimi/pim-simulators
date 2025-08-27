@@ -36,8 +36,8 @@
 26. PimSimNN [Paper](https://arxiv.org/pdf/2402.18089) [Code](https://github.com/wangxy-2000/pimsim-nn) 🙂
 27. Extended timing accuarate gem5 simulator [Paper](https://www.degruyterbrill.com/document/doi/10.1515/itit-2023-0019/html?lang=en&srsltid=AfmBOopBGwUJn_B7c7ANt0-tN1S1PyQtYmGmItDFg4UOir31sg_S6EUo) 😐
 28. Wave-PIM [Paper](https://lca.ece.utexas.edu/pubs/ICPP_21_Wave_PIM.pdf) 😊
-29. NeuroSim for PIM [Paper](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.659060/full) [Code](https://github.com/neurosim/DNN_NeuroSim_V2.1)
-30. CIM-SIM [Paper](https://dl.acm.org/doi/10.1145/3323439.3323989)
+29. NeuroSim for PIM [Paper](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.659060/full) [Code](https://github.com/neurosim/DNN_NeuroSim_V2.1) 😁
+30. CIM-SIM [Paper](https://dl.acm.org/doi/10.1145/3323439.3323989) 😊
 31. MoEs on an abstract 3D AIMC system [Paper](https://www.nature.com/articles/s43588-024-00753-x) [Code](https://github.com/IBM/3D-CiM-LLM-Inference-Simulator)
 32. MemTorch [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002053) [Code](https://github.com/coreylammie/MemTorch)
 33. RAPIDNN [Paper](https://arxiv.org/pdf/1806.05794)
