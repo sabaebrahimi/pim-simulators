@@ -38,10 +38,10 @@
 28. Wave-PIM [Paper](https://lca.ece.utexas.edu/pubs/ICPP_21_Wave_PIM.pdf) 😊
 29. NeuroSim for PIM [Paper](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.659060/full) [Code](https://github.com/neurosim/DNN_NeuroSim_V2.1) 😁
 30. CIM-SIM [Paper](https://dl.acm.org/doi/10.1145/3323439.3323989) 😊
-31. MoEs on an abstract 3D AIMC system [Paper](https://www.nature.com/articles/s43588-024-00753-x) [Code](https://github.com/IBM/3D-CiM-LLM-Inference-Simulator)
-32. MemTorch [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002053) [Code](https://github.com/coreylammie/MemTorch)
-33. RAPIDNN [Paper](https://arxiv.org/pdf/1806.05794)
-34. PUMA [Paper](https://arxiv.org/pdf/1901.10351)
+31. MoEs on an abstract 3D AIMC system [Paper](https://www.nature.com/articles/s43588-024-00753-x) [Code](https://github.com/IBM/3D-CiM-LLM-Inference-Simulator) 😎
+32. MemTorch [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002053) [Code](https://github.com/coreylammie/MemTorch) 🙂
+33. RAPIDNN [Paper](https://arxiv.org/pdf/1806.05794) -> no code no simulation 👌
+34. PUMA [Paper](https://arxiv.org/pdf/1901.10351) [Code](https://github.com/Aayush-Ankit/puma-simulator) 😁
 35. DL-RSIM [Paper](https://ieeexplore.ieee.org/document/8587661)
 36. PipeLayer [Paper](https://ieeexplore.ieee.org/abstract/document/7920854)
 ## PIM Modeling
