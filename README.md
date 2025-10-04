@@ -10,8 +10,8 @@
 ## PIM Simulators
 1. Sim2pim [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2022/06/JSA2022.pdf) [Paper2](https://past.date-conference.com/proceedings-archive/2021/pdf/1725.pdf) 🤯
 2. uPIMulator [Paper](https://arxiv.org/pdf/2308.00846) [Code](https://github.com/VIA-Research/uPIMulator)  😎
-3. HMC-Sim-2.0 [Paper](https://ieeexplore.ieee.org/document/7529923) 😁
-4. CLAPPS [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) 😊
+3. ~HMC-Sim-2.0 [Paper](https://ieeexplore.ieee.org/document/7529923) 😁~
+4. ~CLAPPS [Paper](https://web.inf.ufpr.br/mazalves/wp-content/uploads/sites/13/2019/10/samos2017.pdf) 😊~
 5. Pimsimulator [Code](https://github.com/SAITPublic/PIMSimulator) 😊
 6. NAPEL [Paper](https://people.inf.ethz.ch/omutlu/pub/NAPEL-near-memory-computing-performance-prediction-via-ML_dac19.pdf) 👌
 7. ~gem5-ndp [Paper](https://hpcas.inesc-id.pt/~handle/papers/Conf_SBAC-PAD_2022.pdf) 😎~
@@ -23,7 +23,7 @@
 13. NVMain [Paper](https://ieeexplore.ieee.org/document/6296505) [Code](https://github.com/SEAL-UCSB/NVmain) 😁
 14. ~PIMCoSim [Paper](https://www.mdpi.com/2079-9292/13/23/4795) 😊~
 15. ~PIMSys [Paper](https://dl.acm.org/doi/full/10.1145/3695794.3695797) 😊~
-16. MIMDRAM [Paper](https://arxiv.org/pdf/2402.19080) [Code](https://github.com/CMU-SAFARI/MIMDRAM) 🗿
+16. ~MIMDRAM [Paper](https://arxiv.org/pdf/2402.19080) [Code](https://github.com/CMU-SAFARI/MIMDRAM) 🗿~
 17. SMCSim [Paper](https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/4324/file/_FINAL_W07.11.4.pdf) [Paper2](https://cs.brown.edu/people/acrotty/pubs/3490148.3538591.pdf) [Code](https://github.com/salilkapur/SMCSim) 🤯
 18. SK hynix AiM simulator (For CENT) [Paper](https://arxiv.org/pdf/2502.07578) [Code](https://github.com/arkhadem/aim_simulator) 😎
 19. PiMsimulation [Code](https://github.com/RohSiHyun/PiMsimulation) 🙂
@@ -44,6 +44,9 @@
 34. PUMA [Paper](https://arxiv.org/pdf/1901.10351) [Code](https://github.com/Aayush-Ankit/puma-simulator) 😁
 35. ~DL-RSIM [Paper](https://ieeexplore.ieee.org/document/8587661)~
 36. ~PipeLayer [Paper](https://ieeexplore.ieee.org/abstract/document/7920854)~
+37. 1
+38. 2
+39. 3
 ## PIM Modeling
 1. MNSIM 2.0 [Paper](https://ieeexplore.ieee.org/document/10058114) [Code](https://github.com/thu-nics/MNSIM-2.0)
 2. ~The Processing-in-Memory Model [Paper](https://www.cs.ucr.edu/~ygu/papers/SPAA21/PIM.pdf)~
