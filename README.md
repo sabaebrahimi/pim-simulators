@@ -4,7 +4,7 @@
 2. IBM Analog Hardware Acceleration Kit [Docs](https://aihwkit.readthedocs.io/en/latest/) [Code](https://github.com/IBM/aihwkit)
 ## DRAM Simulators
 1. Ramulator [Paper](https://people.inf.ethz.ch/omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf) [Code](https://github.com/CMU-SAFARI/ramulator)
-2. Statistical DRAM Modeling [Paper](https://dl.acm.org/doi/pdf/10.1145/3357526.3357576)
+2. ~Statistical DRAM Modeling [Paper](https://dl.acm.org/doi/pdf/10.1145/3357526.3357576)~
 3. Ramulator 2.0 [Paper](https://arxiv.org/pdf/2308.11030) [Code](https://github.com/CMU-SAFARI/ramulator2)
 4. DRAMsim3 [Paper](https://ieeexplore.ieee.org/document/8999595) [Code](https://github.com/umd-memsys/DRAMsim3)
 ## PIM Simulators
